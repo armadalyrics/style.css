@@ -3,13 +3,13 @@ a,abbr,acronym,address,applet,big,blockquote,caption,center,cite,dd,del,dfn,div,
     background: 0;
     line-height: 1.766rem;
     color: #333;
-    font-family: 'Montserrat',sans-serif;
+    font-family: 'Reem Kufi', sans-serif;
 }
 b {
     font-size: 20px;
     text-transform: uppercase;
-    font-family: Poppins;
-    color: #3C3C3C;
+    font-family: 'Poppins', sans-serif;
+    color: #212529;
 }
 b:after,b:before {
     display: inline-block;
@@ -69,7 +69,8 @@ a:hover,a:link,a:visited {
     outline: 0
 }
 a img {
-    border: 0
+    border: 0;
+    display: none;
 }
 body {
     background: #fff;
@@ -174,7 +175,7 @@ code {
 #error-wrap h2 {
     font-size: 25px;
     padding: 20px 0 10px;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
 }
 #error-wrap .homepage {
     height: auto;
@@ -182,7 +183,7 @@ code {
     padding: 1%;
     background: mediumspringgreen;
     border-radius: 52px;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
 }
 #main-wrapper {
     float: left;
@@ -196,7 +197,7 @@ code {
 .box-title h2 {
     display: block!important;
     color: #222;
-    font-family: "Montserrat",sans-serif;
+    font-family: 'Reem Kufi', sans-serif;
     text-transform: uppercase;
     font-weight: 500;
     line-height: 13px
@@ -204,7 +205,7 @@ code {
 .box-title h2 a,.uk-post-meta span strong,.uk-post-title a {
     line-height: 1;
     color: #222;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
     font-size: 2rem;
     font-weight: 500;
@@ -256,7 +257,7 @@ code {
     padding: 18px 0 0
 }
 .uk-column1 .uk-post-title,.uk-post-title {
-    font-family: 'Montserrat';
+    font-family: 'Reem Kufi', sans-serif;
     font-weight: 700;
     letter-spacing: -.4px;
     margin: 0 0 5px;
@@ -284,7 +285,7 @@ code {
     float: left;
     padding: 0;
     margin: 0;
-    font-family: 'Montserrat',sans-serif;
+    font-family: 'Reem Kufi', sans-serif;
     display: inline-block;
     font-size: 10px;
     text-transform: uppercase;
@@ -353,7 +354,7 @@ ul.roma-widget {
 }
 .youtube {
     color: red;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     font-size: 22px
 }
@@ -402,7 +403,7 @@ ul.roma-widget {
     background: $(color.theme);
     color: #fff;
     margin: 0;
-    font-family: 'Montserrat',sans-serif;
+    font-family: 'Reem Kufi', sans-serif;
     font-size: 10px;
     font-weight: 700;
     text-transform: uppercase;
@@ -441,7 +442,7 @@ abbr.published.timeago {
     display: block
 }
 .post h2 a {
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 22px;
     letter-spacing: -.4px;
     margin: 0 0 5px;
@@ -471,7 +472,7 @@ div.post_author_date a {
     margin: 0 0 10px
 }
 #meta-post a,.resumo span,abbr.published.timeago {
-    font-family: 'Montserrat',sans-serif
+    font-family: 'Reem Kufi', sans-serif;
 }
 .resumo span {
     margin-bottom: 10px;
@@ -507,7 +508,7 @@ div.post_author_date a {
     -ms-transition: all .35s ease-in-out;
     -o-transition: all .35s ease-in-out;
     transition: all .35s ease-in-out;
-    font-family: 'Montserrat',sans-serif
+    font-family: 'Reem Kufi', sans-serif;
 }
 .post-comment a i,.post-views i {
     display: inline-block;
@@ -571,7 +572,7 @@ div.post_author_date a {
     color: #666
 }
 .post-meta {
-    margin: 0
+    padding: 10px;
 }
 .hreview {
     display: none!important
@@ -581,7 +582,7 @@ div.post_author_date a {
 }
 .breadcrumbs {
     margin: 0 0 10px;
-    font-family: 'Montserrat',sans-serif;
+    font-family: 'Reem Kufi', sans-serif;
     display: inline-block;
     font-size: 10px;
     text-transform: uppercase;
@@ -603,7 +604,7 @@ div.post_author_date a {
     display: inline-block;
     position: relative;
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     letter-spacing: -.4px;
     padding: 10px;
     text-transform: uppercase;
@@ -613,7 +614,7 @@ div.post_author_date a {
 }
 .item .post-body,.static_page .post-body {
     width: 100%;
-    font-family: 'Montserrat',sans-serif;
+    font-family: 'Reem Kufi', sans-serif;
     font-size: 17px;
     line-height: 1.5em;
     overflow: hidden
@@ -725,9 +726,8 @@ div.post_author_date a {
 .related-headline {
     display: block;
     color: #222;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
-    font-size: 2rem;
     font-weight: 500;
     overflow: hidden;
     margin-bottom: 15px
@@ -750,7 +750,7 @@ div.post_author_date a {
     display: block;
     color: #000;
     font-size: 14px!important;
-    font-family: 'Montserrat';
+    font-family: 'Reem Kufi', sans-serif;
     font-weight: 700;
     letter-spacing: -.4px;
     line-height: 18px
@@ -773,7 +773,7 @@ div.post_author_date a {
 .post-body h1,.post-body h2,.post-body h3,.post-body h4,.post-body h5,.post-body h6 {
     margin-bottom: 20px;
     text-transform: uppercase;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
 }
 blockquote {
     border-left: 5px solid #FFC300;
@@ -855,7 +855,7 @@ blockquote:after {
 }
 #blog-pager,.cmm-tabs-header h3 {
     margin: 0;
-    font-family: 'Montserrat',sans-serif
+    font-family: 'Reem Kufi', sans-serif;
 }
 .cmm-tabs-header h3 {
     display: inline-block;
@@ -1030,7 +1030,7 @@ iframe.blogger-comment-from-post,iframe.blogger-iframe-colorize {
     padding: 1rem 2rem;
     border: 3px #000 solid;
     display: inline-block;
-    font-family: Montserrat,Helvetica,Arial,sans-serif;
+    font-family: 'Reem Kufi', sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 1;
@@ -1081,7 +1081,6 @@ span.showpage:before {
     overflow: hidden;
     width: 300px;
     padding-top: 0;
-    background: #f5f5f5;
     padding-bottom: 20px;
     word-wrap: break-word;
     color: #666;
@@ -1097,7 +1096,7 @@ span.showpage:before {
     margin: 0 0 10px
 }
 .sidebar h2 {
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     position: relative;
     padding-bottom: 10px;
     text-transform: uppercase;
@@ -1139,7 +1138,7 @@ span.showpage:before {
     height: 32px;
     line-height: 32px;
     letter-spacing: 1px;
-    font-family: 'Montserrat',sans-serif;
+    font-family: 'Reem Kufi', sans-serif;
     display: block
 }
 .tab-opt li:hover {
@@ -1174,7 +1173,7 @@ span.showpage:before {
 .list-label-widget-content li a,.list-label-widget-content li span:first-child {
     color: #333;
     font-size: 12px;
-    font-family: 'Montserrat',sans-serif
+    font-family: 'Reem Kufi', sans-serif;
 }
 #footer .list-label-widget-content li a,#footer .list-label-widget-content li span:first-child {
     color: #fff;
@@ -1327,7 +1326,7 @@ ul.roma-widget li:first-child a .post-title h6 {
     font-size: 11px;
     font-weight: 300;
     text-transform: uppercase;
-    font-family: 'Montserrat',sans-serif;
+    font-family: 'Reem Kufi', sans-serif;
     color: #b7b7b7;
     margin-top: 7px
 }
@@ -1458,7 +1457,7 @@ ul.post-nav span {
     display: block;
     color: #000;
     font-size: 15px!important;
-    font-family: 'Montserrat';
+    font-family: 'Reem Kufi', sans-serif;
     font-weight: 700;
     letter-spacing: -0.4px;
     line-height: 18px;
@@ -1514,7 +1513,7 @@ h2 {
 .sect-left h2 {
     color: #fff;
     margin-bottom: 8px;
-    font-family: 'Montserrat',sans-serif;
+    font-family: 'Reem Kufi', sans-serif;
     display: inline-block;
     font-size: 13px;
     font-weight: 900;
@@ -1580,7 +1579,7 @@ span.reading-time {
     font-size: 11px;
     font-weight: 300;
     text-transform: uppercase;
-    font-family: 'Montserrat',sans-serif;
+    font-family: 'Reem Kufi', sans-serif;
     color: #757575
 }
 a.timestamp-link:after {
@@ -1617,442 +1616,155 @@ a.btn-style {
 /* line-height: 1px; */
 letter-spacing: 0.8px;
 }
-/*------Layout (No Edit)----------*/
+/*------NAVBAR CSS-------*/
+ nav{
+  }
 
-body#layout{
-    background-color: #fff; 
-    border: 1px solid #e5e5e5;
-    font-size: small;
-    margin: 0;
-    min-height: 0;
-    padding: 0px ;
+.top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    border-bottom: 1px solid #F6F6F6;
+    box-shadow: 10px 7px 47px -9px rgba(207,207,207,1);
+    left: 0;
+    z-index: 1030;
+    background-color: #ffff!important;
+}
+
+.bg-light {
+    background-color: #ffff!important;
+}
+
+.fa-ellipsis-v:before {
+    color: #252525;
+    font-size: 30px;
+}
+
+  .my-navbar h3 a{
+    color: #1b1e21;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+  }
+  .my-navbar h3 a span{
+    color: #ffc107;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+  }
+  .navbar-toggler:not(:disabled):not(.disabled){
+    position: fixed!important;
+    bottom: 30px;
+    margin: 0 auto;
+    right: 1.5rem;
+    z-index: 1000000000;
+    width: 60px;
+    height: 60px;
+    border: 0;
+    border-radius: 50%;
+    opacity: 1;
+    box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5);
+    background-color: white;
+    transition: 300ms ease all;
+}
+  .navbar-expand-lg .navbar-collapse{
+    justify-content: center;
+}
+  .my-navbar .navbar-nav .nav-item .nav-link{
+    font-family: 'Reem Kufi', sans-serif;
+    color: #212F3C;
+    padding-left: 0.8rem;
+    font-size: 17;
+}
+ .my-navbar .navbar-nav .btn-warning{
+    font-family: 'Reem Kufi', sans-serif;
+    color:#212F3C;
+    border-radius: 30px;
+  }
+
+.fa-hotjar:before {
+    content: "\f3b1";
+    color: #FC2C2C;
+  }
+
+  .buscador{
+    justify-content: end;
+    padding-top: 50px;
     text-align: center;
-}
-body#layout #outer-wrapper {
-padding: 0;
-width: 1000px
-}
+    width: auto;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #F6F6F6;
+    -webkit-box-shadow: 10px 7px 47px -9px rgba(207,207,207,1);
+    -moz-box-shadow: 10px 7px 47px -9px rgba(207,207,207,1);
+    box-shadow: 10px 7px 47px -9px rgba(207,207,207,1);
+  }
+  .buscador h1 {
+    font-family: 'Poppins', sans-serif;
+    padding-top: 3rem;
+    padding: 2rem;
+    font-size: 1.5rem;
+    color: #1C1C1C;
+  }
 
-body#layout #option .widget .widget-content {
-background: #fff;
-color: #1c303a;
-border: 1px solid #fff
-}
-body#layout #option .widget .widget-content .editlink {
-border-color: #2496ee;
-background-color: #2496ee;
-color: #fff!important;
-padding: 2px 6px
-}
-body#layout #option .widget .widget-content .editlink:hover {
-border-color: #e74c3c;
-background-color: #e74c3c;
-text-decoration: none
-}
-
-body#layout #content-wrapper {
-margin: 0 auto
-}
-body#layout #main-wrapper {
-float: left;
-width: 70%;
-margin: 0;
-padding: 0
-}
-body#layout #ads-home {
-width: auto;
-max-height: none;
-margin-bottom: 0
-}
-body#layout #sidebar_tabs:before {
-content: "Sidebar Tabs";
-color: #fff;
-font-size: 18px;
-margin-bottom: 5px;
-display: block
-}
-body#layout .sidebar-wrapper {
-float: right;
-width: 30%;
-margin: 0;
-padding: 0
-}
-body#layout #sidebar_tabs {
-overflow: hidden;
-background-color: #ffba00;
-padding: 10px;
-margin-bottom: 10px;
-box-sizing: border-box
-}
-body#layout #sidebar_tabs .tab-opt {
-padding: 0;
-float: left
-}
-body#lau #footer-wrapper {
-overflow: hidden
-}
-body#layout .sect-left {
-width: 28%;
-float: left
-}
-body#layout #social-footer {
-width: 30%;
-float: right
+  .form-control{
+    border-collapse: separate;
+    border-spacing: 5px;
+    font-family: 'Reem Kufi', sans-serif;
+    width: 80%;
+    border: none;
+    display: -webkit-inline-box;
+    color: #000;
+    border-bottom: 5px solid #c3c3c3;
+  }
+  .my-boton{
+    border-top: none;
+    border-left: none;
+    font-family: 'Reem Kufi', sans-serif;
+    vertical-align: bottom;
+    border-bottom: 5px solid #F54178;
+    border-right: none;
+    color: #F54178;
+  }
+.btn a{
+    color: #000;
+    text-decoration: none;
+  }
+.publicidad{
+    background-position: center;
+    width: 100%;
+    height: 60%;
 }
 
-body#layout .row {
-width: 860px
+footer{
+    padding: 3%;
+    padding-top: 15px;
+    margin: 10px auto;
+    background: #EAECEE;
 }
-/*----Responsive Design----*/
-@media only screen and (max-width:1060px) {
-    #outer-wrapper {
-        max-width: 100%;
-        box-shadow: none
-    }
+footer h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    color: #1C1C1C;
 
-    .row {
-        width: 90%
-    }
-
-    .header-logo {
-        max-width: 200px
-    }
-
-    #main-wrapper {
-        width: 67%
-    }
-
-    .sidebar-wrapper {
-        width: 30%
-    }
-
-    .back-to-top {
-        display: none
-    }
-
-    .post-detail {
-        background-color: #fff;
-        padding: 10px;
-        margin-left: 0
-    }
-
-    article.my-wrapz {
-        width: 100%
-    }
 }
-
-@media only screen and (max-width:979px) {
-  
-
-    .header-ads,.header-logo img {
-        margin: 0 auto
-    }
-
-    .header-ads {
-        float: none
-    }
-
-    #content-wrapper {
-        margin: 15px auto
-    }
-
-    #main-wrapper {
-        width: 100%
-    }
-
-    .uk-featured-post {
-        margin-bottom: 15px
-    }
-
-    #ads-home {
-        margin: 0 auto 20px
-    }
-
-    .sidebar-wrapper {
-        float: left;
-        width: 100%;
-        margin-top: 15px
-    }
-
-    .item .sidebar-wrapper {
-        padding-top: 10px
-    }
-
-    .footer-sections {
-        padding: 15px 0 10px
-    }
-
-    .sect-left {
-        width: 100%;
-        margin-right: 0;
-        margin-bottom: 20px
-    }
-
-    .sect-left:last-child {
-        margin-bottom: 0
-    }
-
-
-@media only screen and (max-width:767px) {
-    #ads-top .widget-content {
-        max-width: 100%;
-        height: auto;
-        line-height: 0
-    }
-
-    #ads-top .widget-content iframe,#ads-top .widget-content img {
-        max-width: 100%
-    }
-
-    .uk-search-header {
-        display: none
-    }
-
-    .Header h1 {
-        font-size: 18px
-    }
+footer p{
+    color: #3f3844;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0.025em;
+    font-weight: 700;
+    font-size: 1rem;
 }
-
-@media only screen and (max-width:620px) {
-    .uk-featured-post .uk-column1 {
-        width: 100%;
-        padding-right: 0
-    }
-
-    .uk-column1 .uk-post-caption {
-        padding: 0;
-        float: left
-    }
-
-    .uk-featured-post .uk-column2 {
-        float: right;
-        width: 100%;
-        margin-top: 15px
-    }
-
-    .uk-featured-post .uk-column2 .item2 {
-        float: left;
-        width: 48.5%;
-        margin-bottom: 0
-    }
-
-    .uk-featured-post .uk-column2 .item3 {
-        float: right;
-        width: 48.5%
-    }
-
-    .archive article,.index article {
-        float: left
-    }
-
-    .block-image,.block-image .thumb,.block-image .thumb a,.uk-column1 .uk-post-thumb,.uk-column1 .uk-post-thumb .uk-image {
-        width: 100%;
-        height: 250px;
-        margin-right: 0;
-        margin-bottom: 15px;
-        float: left
-    }
-
-    .archive #blog-pager,.archive .blog-pager,.index #blog-pager,.index .blog-pager {
-        padding: 10px 0
-    }
-
-    .item .post-title,.static_page .post-title {
-        font-size: 24px;
-        line-height: 1.4em
-    }
-
-    .share-art a {
-        padding: 0
-    }
-
-    .share-art span {
-        display: none
-    }
-
-    .share-art i.fa {
-        margin-right: 0!important
-    }
-
-
-@media only screen and (max-width:480px) {
-    .block-image,.block-image .thumb,.block-image .thumb a,.uk-column1 .uk-post-thumb,.uk-column1 .uk-post-thumb .uk-image {
-        height: 196px
-    }
-
-    .uk-featured-post .uk-column2 .item2 {
-        width: 100%
-    }
-
-    .uk-featured-post .uk-column2 .item3 {
-        float: left;
-        width: 100%;
-        margin-top: 15px
-    }
-
-    .breadcrumbs {
-        line-height: 1.5em
-    }
-
-    .item .post-title,.post h2 a,.static_page .post-title {
-        font-size: 22px
-    }
-
-    .related li {
-        width: 100%;
-        margin: 10px 0 0
-    }
-
-    .related li:first-child {
-        margin-top: 0
-    }
-
-    .cmm-tabs-header h3 {
-        font-size: 10px
-    }
-
-    .sect-left {
-        margin-bottom: 15px
-    }
-
-    .footer-wrapper #social-footer {
-        margin-right: 0;
-        width: 100%;
-        text-align: center;
-        background: #EAECEE;
-    }
-
-    .footer-wrapper #social-footer ul li {
-        display: inline-block;
-        float: none;
-        background: #EAECEE;
-    }
-
-    .footer-wrapper .copyright {
-        text-align: center;
-        float: left;
-        width: 100%;
-        margin-top: 5px;
-        background: #EAECEE;
-    }
-
-    #header-blog {
-        width: 42%
-    }
-
-    .header-menu {
-        width: 32%;
-        overflow: hidden
-    }
-
-    .item .post,.static_page .post {
-        padding: 15px
-    }
+footer h4{
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.875rem;
+    color: #c3c3c3;
+    padding-top: 18px;
 }
-
-@media only screen and (max-width:340px) {
-    .block-image,.block-image .thumb,.block-image .thumb a,.uk-column1 .uk-post-thumb,.uk-column1 .uk-post-thumb .uk-image {
-        height: 200px
-    }
-
-    .cmm-tabs-header .wrap-tab a {
-        padding: 0 7px
-    }
-
-    .cmm-tabs.simplyTab .wrap-tab li a {
-        letter-spacing: 0
-    }
-
-    .footer-sections {
-        padding: 15px 0 10px
-    }
-
-    .flickr_widget .flickr_badge_image:nth-of-type(12),.flickr_widget .flickr_badge_image:nth-of-type(4),.flickr_widget .flickr_badge_image:nth-of-type(8) {
-        margin-right: 0
-    }
+footer h5{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: #BDBBBB;
 }
-
-@media only screen and (max-width:300px) {
-    .tm-menu {
-        width: 100%
-    }
-
-    .social-area {
-        display: none
-    }
-
-    .header-logo {
-        float: center;
-        text-align: center;
-        margin: 0 auto;
-        min-width: inherit
-    }
-
-    .header-ads {
-        display: none
-    }
-
-    #selectnav1,.header-menu {
-        width: 100%
-    }
-
-    .nav-wrapper {
-        padding: 0 10px
-    }
-
-    .header-random {
-        display: none
-    }
-
-    .block-image,.block-image .thumb,.block-image .thumb a,.uk-column1 .uk-post-thumb,.uk-column1 .uk-post-thumb .uk-image {
-        height: 160px
-    }
-
-    .post h2 a,.uk-column1 .uk-post-title {
-        font-size: 18px
-    }
-
-    .retitle {
-        margin-bottom: 10px
-    }
-
-    .item .post-title,.static_page .post-title {
-        font-size: 20px
-    }
-
-    .error-item {
-        font-size: 120px
-    }
-
-    .cmm-tabs-header {
-        overflow: hidden
-    }
-
-    .cmm-tabs.simplyTab .wrap-tab {
-        float: left
-    }
-
-    .cmm-tabs-header .wrap-tab li {
-        float: left;
-        display: inline-block;
-        margin-left: 0!important;
-        margin-right: 10px;
-        margin-bottom: 2px
-    }
-
-    .cmm-tabs-header .wrap-tab li:last-child {
-        margin-right: 0
-    }
-
-    .cmm-tabs.simplyTab .wrap-tab li a {
-        padding: 2px 7.55px
-    }
-
-    #footer,.cmm-tabs-header h3,.sidebar-wrapper {
-        display: none
-    }
-
-    .footer-wrapper #social-footer ul li,.footer-wrapper #social-footer ul li a {
-        margin: 0 5px
-    }
+footer ul li a{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3rem;
+    color: #BDBBBB;
 }
