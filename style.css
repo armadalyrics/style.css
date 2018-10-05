@@ -3,7 +3,7 @@ a,abbr,acronym,address,applet,big,blockquote,caption,center,cite,dd,del,dfn,div,
     background: 0;
     line-height: 1.766rem;
     color: #333;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
 }
 b {
     font-size: 20px;
@@ -197,7 +197,7 @@ code {
 .box-title h2 {
     display: block!important;
     color: #222;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     text-transform: uppercase;
     font-weight: 500;
     line-height: 13px
@@ -257,7 +257,7 @@ code {
     padding: 18px 0 0
 }
 .uk-column1 .uk-post-title,.uk-post-title {
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-weight: 700;
     letter-spacing: -.4px;
     margin: 0 0 5px;
@@ -285,7 +285,7 @@ code {
     float: left;
     padding: 0;
     margin: 0;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     display: inline-block;
     font-size: 10px;
     text-transform: uppercase;
@@ -403,7 +403,7 @@ ul.roma-widget {
     background: $(color.theme);
     color: #fff;
     margin: 0;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-size: 10px;
     font-weight: 700;
     text-transform: uppercase;
@@ -472,7 +472,7 @@ div.post_author_date a {
     margin: 0 0 10px
 }
 #meta-post a,.resumo span,abbr.published.timeago {
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
 }
 .resumo span {
     margin-bottom: 10px;
@@ -508,7 +508,7 @@ div.post_author_date a {
     -ms-transition: all .35s ease-in-out;
     -o-transition: all .35s ease-in-out;
     transition: all .35s ease-in-out;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
 }
 .post-comment a i,.post-views i {
     display: inline-block;
@@ -582,7 +582,7 @@ div.post_author_date a {
 }
 .breadcrumbs {
     margin: 0 0 10px;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     display: inline-block;
     font-size: 10px;
     text-transform: uppercase;
@@ -614,7 +614,7 @@ div.post_author_date a {
 }
 .item .post-body,.static_page .post-body {
     width: 100%;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-size: 17px;
     line-height: 1.5em;
     overflow: hidden
@@ -750,7 +750,7 @@ div.post_author_date a {
     display: block;
     color: #000;
     font-size: 14px!important;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-weight: 700;
     letter-spacing: -.4px;
     line-height: 18px
@@ -824,7 +824,7 @@ blockquote:after {
     clear: both;
     margin-top: 0;
     margin-bottom: 0;
-    color: #222
+    color: #222;
 }
 .comments h4 {
     font-size: 13px;
@@ -855,7 +855,7 @@ blockquote:after {
 }
 #blog-pager,.cmm-tabs-header h3 {
     margin: 0;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
 }
 .cmm-tabs-header h3 {
     display: inline-block;
@@ -1030,7 +1030,7 @@ iframe.blogger-comment-from-post,iframe.blogger-iframe-colorize {
     padding: 1rem 2rem;
     border: 3px #000 solid;
     display: inline-block;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 1;
@@ -1138,7 +1138,7 @@ span.showpage:before {
     height: 32px;
     line-height: 32px;
     letter-spacing: 1px;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     display: block
 }
 .tab-opt li:hover {
@@ -1173,7 +1173,7 @@ span.showpage:before {
 .list-label-widget-content li a,.list-label-widget-content li span:first-child {
     color: #333;
     font-size: 12px;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
 }
 #footer .list-label-widget-content li a,#footer .list-label-widget-content li span:first-child {
     color: #fff;
@@ -1326,7 +1326,7 @@ ul.roma-widget li:first-child a .post-title h6 {
     font-size: 11px;
     font-weight: 300;
     text-transform: uppercase;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     color: #b7b7b7;
     margin-top: 7px
 }
@@ -1457,7 +1457,7 @@ ul.post-nav span {
     display: block;
     color: #000;
     font-size: 15px!important;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     font-weight: 700;
     letter-spacing: -0.4px;
     line-height: 18px;
@@ -1513,7 +1513,7 @@ h2 {
 .sect-left h2 {
     color: #fff;
     margin-bottom: 8px;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     display: inline-block;
     font-size: 13px;
     font-weight: 900;
@@ -1579,7 +1579,7 @@ span.reading-time {
     font-size: 11px;
     font-weight: 300;
     text-transform: uppercase;
-    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     color: #757575;
 }
 a.timestamp-link:after {
