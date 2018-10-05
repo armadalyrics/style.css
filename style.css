@@ -1613,9 +1613,6 @@ a.btn-style {
     padding: 10px 20px;
     color: #000
 }
-/* line-height: 1px; */
-letter-spacing: 0.8px;
-}
 /*------NAVBAR CSS-------*/
  nav{
   }
@@ -1767,4 +1764,10 @@ footer ul li a{
     font-family: 'Poppins', sans-serif;
     font-size: 1.3rem;
     color: #BDBBBB;
+}
+/* line-height: 1px; */
+letter-spacing: 0.8px;
+}
+/* line-height: 1px; */
+letter-spacing: 0.8px;
 }
