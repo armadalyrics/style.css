@@ -1571,7 +1571,7 @@ h2 {
 .cmm-tabs.simplyTab {
     border: 1px solid #eee;
     padding: 25px;
-    margin-top: 30px
+    margin-top: 30px;
 }
 span.reading-time {
     position: relative;
@@ -1580,14 +1580,14 @@ span.reading-time {
     font-weight: 300;
     text-transform: uppercase;
     font-family: 'Reem Kufi', sans-serif;
-    color: #757575
+    color: #757575;
 }
 a.timestamp-link:after {
     content: "-";
-    margin: 0 6px 0 8px
+    margin: 0 6px 0 8px;
 }
 span.uk-date {
-    color: #b7b7b7
+    color: #b7b7b7;
 }
 .footerwidget .widget h2 {
     display: block;
@@ -1596,7 +1596,7 @@ span.uk-date {
 }
 div#footer-instagram {
     position: relative;
-    margin-top: 100px
+    margin-top: 100px;
 }
 .my-insta-box {
     position: absolute;
@@ -1606,168 +1606,14 @@ div#footer-instagram {
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    margin-bottom: 14px
+    margin-bottom: 14px;
 }
 a.btn-style {
     background: #fff;
     padding: 10px 20px;
-    color: #000
-}
-/*------NAVBAR CSS-------*/
- nav{
-  }
-
-.top {
-    position: fixed;
-    top: 0;
-    right: 0;
-    border-bottom: 1px solid #F6F6F6;
-    box-shadow: 10px 7px 47px -9px rgba(207,207,207,1);
-    left: 0;
-    z-index: 1030;
-    background-color: #ffff!important;
-}
-
-.bg-light {
-    background-color: #ffff!important;
-}
-
-.fa-ellipsis-v:before {
-    color: #252525;
-    font-size: 30px;
-}
-
-  .my-navbar h3 a{
-    color: #1b1e21;
-    text-decoration: none;
-    font-family: 'Poppins', sans-serif;
-  }
-  .my-navbar h3 a span{
-    color: #ffc107;
-    text-decoration: none;
-    font-family: 'Poppins', sans-serif;
-  }
-  .navbar-toggler:not(:disabled):not(.disabled){
-    position: fixed!important;
-    bottom: 30px;
-    margin: 0 auto;
-    right: 1.5rem;
-    z-index: 1000000000;
-    width: 60px;
-    height: 60px;
-    border: 0;
-    border-radius: 50%;
-    opacity: 1;
-    box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5);
-    background-color: white;
-    transition: 300ms ease all;
-}
-  .navbar-expand-lg .navbar-collapse{
-    justify-content: center;
-}
-  .my-navbar .navbar-nav .nav-item .nav-link{
-    font-family: 'Reem Kufi', sans-serif;
-    color: #212F3C;
-    padding-left: 0.8rem;
-    font-size: 17;
-}
- .my-navbar .navbar-nav .btn-warning{
-    font-family: 'Reem Kufi', sans-serif;
-    color:#212F3C;
-    border-radius: 30px;
-  }
-
-.fa-hotjar:before {
-    content: "\f3b1";
-    color: #FC2C2C;
-  }
-
-  .buscador{
-    justify-content: end;
-    padding-top: 50px;
-    text-align: center;
-    width: auto;
-    padding-bottom: 50px;
-    border-bottom: 1px solid #F6F6F6;
-    -webkit-box-shadow: 10px 7px 47px -9px rgba(207,207,207,1);
-    -moz-box-shadow: 10px 7px 47px -9px rgba(207,207,207,1);
-    box-shadow: 10px 7px 47px -9px rgba(207,207,207,1);
-  }
-  .buscador h1 {
-    font-family: 'Poppins', sans-serif;
-    padding-top: 3rem;
-    padding: 2rem;
-    font-size: 1.5rem;
-    color: #1C1C1C;
-  }
-
-  .form-control{
-    border-collapse: separate;
-    border-spacing: 5px;
-    font-family: 'Reem Kufi', sans-serif;
-    width: 80%;
-    border: none;
-    display: -webkit-inline-box;
     color: #000;
-    border-bottom: 5px solid #c3c3c3;
-  }
-  .my-boton{
-    border-top: none;
-    border-left: none;
-    font-family: 'Reem Kufi', sans-serif;
-    vertical-align: bottom;
-    border-bottom: 5px solid #F54178;
-    border-right: none;
-    color: #F54178;
-  }
-.btn a{
-    color: #000;
-    text-decoration: none;
-  }
-.publicidad{
-    background-position: center;
-    width: 100%;
-    height: 60%;
 }
 
-footer{
-    padding: 3%;
-    padding-top: 15px;
-    margin: 10px auto;
-    background: #EAECEE;
-}
-footer h2{
-    font-family: 'Poppins', sans-serif;
-    font-size: 2.5rem;
-    color: #1C1C1C;
-
-}
-footer p{
-    color: #3f3844;
-    font-family: 'Poppins', sans-serif;
-    letter-spacing: 0.025em;
-    font-weight: 700;
-    font-size: 1rem;
-}
-footer h4{
-    font-family: 'Poppins', sans-serif;
-    font-size: 0.875rem;
-    color: #c3c3c3;
-    padding-top: 18px;
-}
-footer h5{
-    font-family: 'Poppins', sans-serif;
-    font-size: 20px;
-    color: #BDBBBB;
-}
-footer ul li a{
-    font-family: 'Poppins', sans-serif;
-    font-size: 1.3rem;
-    color: #BDBBBB;
-}
-/* line-height: 1px; */
-letter-spacing: 0.8px;
-}
 /* line-height: 1px; */
 letter-spacing: 0.8px;
 }
