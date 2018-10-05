@@ -1616,9 +1616,7 @@ a.btn-style {
 /* line-height: 1px; */
 letter-spacing: 0.8px;
 }
-<b:template-skin><![CDATA[
 /*------Layout (No Edit)----------*/
-
 body#layout{
     background-color: #fff; 
     border: 1px solid #e5e5e5;
@@ -1703,4 +1701,3 @@ float: right
 body#layout .row {
 width: 860px
 }
-]]></b:template-skin>
