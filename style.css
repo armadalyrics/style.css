@@ -6,7 +6,7 @@ a,abbr,acronym,address,applet,big,blockquote,caption,center,cite,dd,del,dfn,div,
     font-family: 'Fira Sans', sans-serif;
 }
 b {
-    font-size: 20px;
+    font-size: 20x;
     text-transform: uppercase;
     font-family: 'Poppins', sans-serif;
     color: #212529;
@@ -22,8 +22,6 @@ b:before {
     margin-right: 8px;
     font-weight: 900;
     font-size: 25px;
-    font-family: "Font Awesome 5 Free";
-    content: "\f105";
 }
 body,code {
     margin: 0
