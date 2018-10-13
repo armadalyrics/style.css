@@ -20,7 +20,6 @@ b:after,b:before {
 }
 b:before {
     margin-right: 8px;
-    font-weight: 900;
     font-size: 25px;
 }
 body,code {
