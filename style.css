@@ -789,12 +789,7 @@ blockquote:after,blockquote:before {
     -webkit-font-smoothing: antialiased;
 }
 blockquote:before {
-    margin-right: 8px;
-    font-weight: 900;
-    font-size: 25px;
     font-family: "Font Awesome 5 Free";
-    content: "\f641";
-    color: #FFC300;
 }
 blockquote:after {
     font-family: "Font Awesome 5 Free";
