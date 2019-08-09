@@ -341,14 +341,6 @@ ul.roma-widget {
     padding: 0;
     text-align: center
 }
-.post {
-    display: block;
-    overflow: hidden;
-    word-wrap: break-word
-}
-.archive .post,.index .post {
-    margin-bottom: 30px
-}
 .youtube {
     color: red;
     font-family: 'Poppins', sans-serif;
